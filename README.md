@@ -2,8 +2,11 @@ BayesianOptimization
 ==================== 
 CSE515T: Bayesian Methods in Machine Learning
 Final Project: Bayesian Optimization with Support Vector Regression
+
 Members: 
+
 Seunghwan "Nigel" Kim
+
 Jae Sang Ha
 
 
