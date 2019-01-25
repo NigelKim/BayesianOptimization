@@ -1,11 +1,19 @@
-BayesianOptimization
-==================== 
-CSE515T: Bayesian Methods in Machine Learning
+Bayesian Optimization
+=====================
+
 Final Project: Bayesian Optimization with Support Vector Regression
+
+Language: *Python*
+Course: CSE 515T Bayesian Methods in Machine Learning\
+Instructor: Roman Garnett Ph.D.\
+Institution: Washington University In St. Louis\
+Time: Spring 2018
+
+
 
 Members: 
 
-Seunghwan "Nigel" Kim
+Seunghwan "Nigel" Kim seunghwan.kim@wustl.edu
 
 Jae Sang Ha
 
